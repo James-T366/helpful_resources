@@ -6,6 +6,8 @@ https://missing.csail.mit.edu/
 https://www.codestepbystep.com/problem/list/c
 
 https://pythontutor.com/
+
+https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/
 ## Math
 https://www.3blue1brown.com/
 
