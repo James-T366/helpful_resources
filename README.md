@@ -22,6 +22,8 @@ http://tcpipguide.com/free/t_NetworkingFundamentals.htm
 
 https://www.computer-networking.info/firstedition.html
 
+https://www.udacity.com/course/computer-networking--ud436
+
 ## MISC
 https://www.feynmanlectures.caltech.edu/
 
