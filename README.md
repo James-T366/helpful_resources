@@ -19,6 +19,8 @@ https://tutorial.math.lamar.edu/
 https://openlearning.mit.edu/courses-programs/open-learning-library
 
 https://ocw.mit.edu/courses/sp-248-neet-ways-of-thinking-fall-2023/
+
+https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/
 ## Networking
 http://tcpipguide.com/free/t_NetworkingFundamentals.htm
 
